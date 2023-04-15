@@ -1,4 +1,5 @@
 author: "Dayan Siddiqui"
 title: "near_futurology"
 description: "My musings on how the near future of tech may look like"
-theme: minima
+#theme: minima
+theme: jekyll-theme-hacker
