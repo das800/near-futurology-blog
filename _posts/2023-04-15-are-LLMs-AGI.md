@@ -1,6 +1,6 @@
 ---
 title: "Of course LLMs aren’t AGI, but the question itself is a huge compliment"
-date: 2023-04-15
+date: 2023-04-09
 ---
 
 <p>The release of ChatGPT has sparked a huge debate amongst tech enthusiasts as to whether LLMs are or could soon become AGI. I personally think it’s obvious that they aren't yet and probably won't be in the near future.</p>
