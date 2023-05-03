@@ -3,8 +3,8 @@ title: "Of course LLMs aren’t AGI, but the question itself is a huge complimen
 date: 2023-04-09
 ---
 
-<p>The release of ChatGPT has sparked a huge debate amongst tech enthusiasts as to whether LLMs are or could soon become AGI. I personally think it’s obvious that they aren't yet and probably won't be in the near future.</p>
 ![LM embeddings](/assets/images/embeddings.png)
+<p>The release of ChatGPT has sparked a huge debate amongst tech enthusiasts as to whether LLMs are or could soon become AGI. I personally think it’s obvious that they aren't yet and probably won't be in the near future.</p>
 <p>But I don't want to bring LLMs down a peg; in fact I want to bring it up a peg. In the group of people who doubt if LLMs are AGI, there are some people who doubt if LLMs are a revolutionary technology at all. That’s just ridiculous, and I want to talk about that.</p>
 <h1>Who moved my goalposts?</h1>
 <p>The reality of the situation is that LLMs accomplished their actual purpose so well that people now take it for granted. LLMs exceeded expectations by so much that people subconsciously had to graduate to the new expectation of “But is it AGI though?”.</p>
