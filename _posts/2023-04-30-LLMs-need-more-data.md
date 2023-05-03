@@ -3,6 +3,7 @@ title: "The internet doesn’t have enough data to train LLMs"
 date: 2023-04-30
 ---
 
+![LM embeddings](/assets/images/Data-science-NLP.jpg)
 <p>Machine learning needs a lot of data to work. Previously the big problem was how to process all the data we have so that ML models can use it. But that was when supervised learning was the state of the art. Now that LLMs look like they could solve any task we throw at them, we have a different problem.</p>
 <p>LLMs use unsupervised learning and need a lot more data to work, and they work across a general domain rather than on specific tasks. This means that our primary source of data, the internet, suddenly does not have the volume or diversity of data that this new evolution of ML demands</p>
 <h1>What do you mean the internet doesn’t have enough data? It’s huge!</h1>
