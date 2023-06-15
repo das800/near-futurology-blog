@@ -3,7 +3,7 @@ title: "ML/AI needs training data; training data comes from operations; operatio
 date: 2023-06-11
 ---
 
-!(the cold start problem is like pushing a car, I guess)[/assets/images/cold-start-pushing.jpg]
+![the cold start problem is like pushing a car, I guess](/assets/images/cold-start-pushing.jpg)
 <p>Imagine this: You are a businessperson living in the age of AI; you see the information revolution in full swing and you know it’ll change society as we know it. You want to be a part of this. You decide to start a business where you train an ML/AI model and charge a subscription for access. </p>
 <p>Maybe it forecasts financial risk from a loan  applicant's activity data; maybe it predicts crop yield using satellite imagery. Whatever domain it is, you have found and validated your product market fit. Now you need to build your model.</p>
 <p>The ML researchers you hired are telling you that they need training data to build this thing; a lot of it. For the model to be accurate, that data needs to be sampled from the same specific domain your problem is in, preferably the same instance of the problem (loan default data from the same banks, historical crop yields from the same farms you will sell to). Otherwise they can't train a data driven model.</p>
@@ -12,7 +12,7 @@ date: 2023-06-11
 <p>You are facing the cold start problem intrinsic to ML based AI.</p>
 <h1>What's happening here?</h1>
 <p>There are 3 components that depend on each other to work. </p>
-!(the triangle of sadness formed by models, training data, and operations)[/assets/images/cold-start-triangle-of-sadness.png]
+![the triangle of sadness formed by models, training data, and operations](/assets/images/cold-start-triangle-of-sadness.png)
 <p></p>
 <p>The trained model, training data, and operations all depend on each other and unless the cycle is already moving, it’s hard to get this triangle of sadness to spin and produce value. It needs to be moving for it to start moving, and so it can’t start moving. This is the cold start problem.</p>
 <p>This is a huge problem for the information revolution as it prohibits the expansion of AI/ML enterprises. It’s hard to set up new AI businesses because you can’t get this dynamic to start spinning, and it’s hard for existing AI enterprises to laterally expand to another domain as that creates a whole new triangle of sadness that, once again, isn’t spinning.</p>
